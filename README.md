@@ -1,4 +1,5 @@
 # Nova Filterable Metrics
+This package is a fork of [this package](https://github.com/nemrutco/nova-filterable-metrics)
 This package inspired by [nova-filterable-cards](https://github.com/beyondcode/nova-filterable-cards)
 
 Add custom filters to your Laravel Nova metrics. 

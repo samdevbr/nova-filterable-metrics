@@ -1,5 +1,5 @@
 {
-    "name": "Samdevbr/nova-filterable-metrics",
+    "name": "samdevbr/nova-filterable-metrics",
     "description": "Filterable Laravel Nova Metrics.",
     "keywords": [
         "laravel",
